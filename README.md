@@ -98,4 +98,4 @@ The data is normalized, fed into the LSTM, and used to predict the future readmi
 ---
 
 ## 📬 Contact
-Feel free to reach out via [your.email@example.com](mailto:your.email@example.com) or open an issue in this repo.
+Feel free to reach out via [subhashg5397@gmail.com](mailto:your.email@example.com) or open an issue in this repo.
