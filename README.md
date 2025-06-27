@@ -22,10 +22,10 @@ This Streamlit app allows you to predict the patient **readmission rate** based 
 ## 📷 App Screenshots
 
 ### 🎯 Single-Day Prediction
-![Readmission Prediction UI](./Screenshot%202025-06-27%20105111.png)
+![Readmission Prediction UI](./Screenshot%202025-06-27%20105021.png)
 
 ### 📊 30-Day Forecast Plot
-![30 Day Forecast](./Screenshot%202025-06-27%20105021.png)
+![30 Day Forecast](./Screenshot%202025-06-27%20105111.png)
 
 ---
 
